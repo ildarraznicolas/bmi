@@ -1,12 +1,12 @@
-# IMC - Índice de Masa Corporal
+# BMI - Índice de Masa Corporal
 
 Este programa en lenguaje C permite calcular el Índice de Masa Corporal de una persona a partir del peso (en kilogramos) y la altura (en metros), e informa en qué categoría se encuentra según los valores de referencia de la Organización Mundial de la Salud (OMS).
 
 ## 🧠 ¿Qué hace el programa?
 
 - Solicita al usuario el peso y la altura
-- Calcula el IMC utilizando la fórmula: `IMC = peso / (altura * altura)`
-- Muestra el valor del IMC con dos decimales
+- Calcula el BMI utilizando la fórmula: `BMI = peso / (altura * altura)`
+- Muestra el valor del BMI con dos decimales
 - Presenta una tabla con las categorías de clasificación
 
 ## 📁 Archivos incluidos
