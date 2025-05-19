@@ -22,7 +22,7 @@ Este programa en lenguaje C permite calcular el Índice de Masa Corporal de una 
 2. Ingresar los datos cuando se solicite
 3. El programa mostrará el resultado y esperará una tecla antes de cerrar
 
-### En cualquier sistema operativo (compilando manualmente)
+### En cualquier sistema operativo
 
 Se puede compilar el archivo `bmi.c` con un compilador C, por ejemplo con GCC:
 
